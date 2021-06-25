@@ -1,0 +1,7 @@
+1. Install python ide like pycharm community version from this link and install it. ''' https://www.jetbrains.com/pycharm/download/#section=windows '''
+2. The stock database folder shared with you will contain sorting_csv_file.py file. Open this file using pycharm.
+3. Read the code to get the idea. I have added the comments for better understanding.
+   You can change the file name in the second last line,
+   just make sure that the input file is in the same folder as this code is in.
+4. Right click on the code an run it.
+5. Output file in the form of excel sheet will be created as per your requirement.
